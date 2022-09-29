@@ -20,7 +20,6 @@ const Plant = (props) => {
       
       <Button
         onPress={() => {
-          GetDbData;
           setisWatered(false);
           setTimeout(
             () => {
